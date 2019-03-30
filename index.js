@@ -1,6 +1,6 @@
 const express = require('express');
 const SHA256 = require('sha256');
-const bodyParser = require('body-parser')
+const bodyParser = require('body-parser');
 
 const app = express()
 const port = 8000
